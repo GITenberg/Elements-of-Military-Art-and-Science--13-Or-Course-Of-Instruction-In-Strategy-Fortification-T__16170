@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6522
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wager_Halleck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16170#Elements-of-Military-Art-and-Science--13-Or-Course-Of-Instruction-In-Strategy-Fortification-T_
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
