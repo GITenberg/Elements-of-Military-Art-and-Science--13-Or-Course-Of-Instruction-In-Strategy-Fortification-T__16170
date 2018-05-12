@@ -1,0 +1,31 @@
+_repo: Elements-of-Military-Art-and-Science--13-Or-Course-Of-Instruction-In-Strategy-Fortification-T__16170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halleck, H. W. (Henry Wager)
+    alias: Halleck, Henry Wager
+    birthdate: 1815
+    deathdate: 1872
+    gutenberg_agent_id: '6522'
+    url: http://www.gutenberg.org/2009/agents/6522
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wager_Halleck
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'Military art and science'
+title: "Elements of Military Art and Science\r\nOr, Course Of Instruction In Strategy,\
+  \ Fortification, Tactics Of Battles, &C.; Embracing The Duties Of Staff, Infantry,\
+  \ Cavalry, Artillery, And Engineers; Adapted To The Use Of Volunteers And Militia;\
+  \ Third Edition; With Critical Notes On The Mexican And Crimean Wars."
+url: http://www.gutenberg.org/ebooks/16170
